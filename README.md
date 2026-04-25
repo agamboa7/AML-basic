@@ -1,3 +1,5 @@
+![Header](header.png)
+
 # Applied Machine Learning (Basic) — Breast Cancer Wisconsin Classification Model
 
 This repository contains the final project developed for the **Applied Machine Learning (Basic)** course at the **University of Bologna**.
