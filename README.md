@@ -46,15 +46,15 @@ The workflow includes data exploration and quality checks, handling moderate cla
    - Tune **SVM (RBF)** with **GridSearchCV** over `C` and `gamma` (optimized for accuracy).
 
 10. **Final test evaluation and comparison**
-   - Evaluate tuned SVM on the test set and compare against the baseline SVM.
+    - Evaluate tuned SVM on the test set and compare against the baseline SVM.
 
 ---
 
 ## Key results
 - Hyperparameter tuning improved overall performance mainly by **reducing false positives**:
-  - Accuracy increased (baseline SVM → tuned SVM)
-  - Malignant precision improved up to **1.00**
-  - Malignant recall remained high (FN remained small)
+- Accuracy increased (baseline SVM → tuned SVM)
+- Malignant precision improved up to **1.00**
+- Malignant recall remained high (FN remained small)
 
 ---
 
