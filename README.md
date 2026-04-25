@@ -67,4 +67,11 @@ This project was developed in **Google Colab**.
 
 ---
 
-> This is an educational project intended to demonstrate a standard applied ML workflow in a healthcare-related classification setting.
+### Questions or Feedback?
+
+If you have any questions, encounter issues, or would like to contribute to improving this pipeline, feel free to contact:
+
+#### Andrea Gamboa  |  **Email:** andrea.arriolagamboa@studio.unibo.it
+Department of Pharmacy and Biotechnology Alma Mater Studiorum – Università di Bologna 
+
+> This project was built for academic purposes as part of the Applied Machine Learning (Basic) course at the University of Bologna (A.Y. 2024/2025). It is an educational project intended to demonstrate a standard applied ML workflow in a healthcare-related classification setting.
